@@ -1,4 +1,4 @@
-## CurrencyConverter
+## ConCurrency
 ### Demo:
 ![alt text](https://github.com/naeemkhan12/CurrencyConverter/blob/master/src/application/resources/img/1vi9b2.gif "Demo Gif")
 
